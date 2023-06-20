@@ -1,0 +1,62 @@
+{
+    "courses": [
+      {
+        "courseid": 1,
+        "name": "Web Development Certification Training",
+        "Type": "Self-Paced"
+      },
+      {
+        "courseid": 2,
+        "name": "jQuery UI Development",
+        "Type": "Self-Paced"
+      },
+      {
+        "courseid": 3,
+        "name": "Angular Certification Training Course",
+        "Type": "Instructor-Based"
+      },
+      {
+        "courseid": 4,
+        "name": "React JS Certification Training Course",
+        "Type": "Instructor-Based"
+      },
+      {
+        "courseid": 5,
+        "name": "Node.js Certification Training Course",
+        "Type": "Instructor-Based"
+      },
+      {
+        "courseid": 6,
+        "name": "MongoDB Certification Training Course",
+        "Type": "Instructor-Based"
+      },
+      {
+        "courseid": 7,
+        "name": "Git and GitHub",
+        "Type": "Self-Paced"
+      }
+    ],
+    "Enquires": [
+      {
+        "id": 1,
+        "courseid": 7,
+        "name": "Nandini Naik",
+        "email": "naiknandini@gmail.com",
+        "message": "when course is expected to start?"
+      },
+      {
+        "id": 2,
+        "courseid": "2",
+        "name": "sss",
+        "email": "SSS@DDD",
+        "message": "ssss"
+      },
+      {
+        "id": 3,
+        "courseid": "1",
+        "name": "santosh",
+        "email": "santosh@gmail.com",
+        "message": "can I register to this course?\n"
+      }
+    ]
+  }
